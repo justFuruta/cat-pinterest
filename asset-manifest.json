@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/justFuruta/cat-pinterest/static/css/main.45c18411.css",
+    "main.js": "/justFuruta/cat-pinterest/static/js/main.e2d03718.js",
+    "index.html": "/justFuruta/cat-pinterest/index.html",
+    "static/media/empty.svg": "/justFuruta/cat-pinterest/static/media/empty.f7d0fb0a8164db3d536c.svg",
+    "static/media/full.svg": "/justFuruta/cat-pinterest/static/media/full.93afdbdc8effd0f2c072.svg",
+    "main.45c18411.css.map": "/justFuruta/cat-pinterest/static/css/main.45c18411.css.map",
+    "main.e2d03718.js.map": "/justFuruta/cat-pinterest/static/js/main.e2d03718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c18411.css",
+    "static/js/main.e2d03718.js"
+  ]
+}
